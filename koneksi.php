@@ -1,6 +1,6 @@
 <?php
 $host ="localhost";
-$pass ="28";
+$pass ="9kali9=81ub";
 $user ="root";
 $dbname ="sf_db019";
 
